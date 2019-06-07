@@ -1,0 +1,19 @@
+Spring cloud config using Spring boot 1x
+
+#### GIT as a config storage
+
+#### Config Server
+http://localhost:8888
+
+#### Page
+http://localhost:8080/message
+
+#### Refresh
+curl -X POST http://localhost:8080/refresh
+
+
+#### Reference Link
+https://dzone.com/articles/intro-to-spring-cloud-config-server
+
+#### bootstrap.yml or application.yml
+https://stackoverflow.com/questions/32997352/what-is-the-difference-between-putting-a-property-on-application-yml-or-bootstra
